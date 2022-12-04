@@ -1,0 +1,72 @@
+
+.name{color: #AA4040;
+
+}
+
+
+
+.hire{color: #AA4040;
+background-color:#FFC220;
+}
+.blog{
+    width:40% ;
+    display: inline-block;
+    margin: 30px; 
+     padding:20px ;
+}
+
+.blog img{
+    width: 450px; 
+    height:500px; 
+}
+.main{
+    width:100% ;
+ background-image:url("img/header-bg.png");
+ width:100%;
+ hight: 100px;
+}
+.main2{
+    width:100%
+    hight: 100px; ;
+    margin-top: 10px
+    background-image:url("header-bg.png");
+}
+.pic{
+    width: 28px;
+  display: inline;
+}
+.pic img{
+    width: 300px;
+}
+.work{
+    text-align: center;
+}
+.area{
+    margin: top 30px; 
+}
+.area{
+    text-align: center
+    ;}
+
+
+.mail{
+    border:solid 1px #FF4790 ;
+    border-radius:  10px;
+    width: 500px;
+   height: 100px;
+ margin: 30px;
+  
+   
+}
+.mail {
+    text-align: center;
+    background-color: #FF4790;
+ margin-left: 30%;
+
+margin-top:5% ;
+
+}
+.say{
+    padding: 5px ;
+}
+   
